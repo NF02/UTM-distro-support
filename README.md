@@ -10,4 +10,5 @@ The idea of the project is to map all the working distros within the environment
 for those wishing to contribute there are two ways:
 - the first is to do some tests if you have the aforementioned hardware;
 - the second is a donation on ko-fi.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CDMP9)
