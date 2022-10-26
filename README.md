@@ -8,7 +8,7 @@ The idea of the project is to map all the working distros within the environment
 
 
 ## What are the main problems of UTM?
-- Quest additions sometimes do not go or do not perfectly recognize the resolution used by the host system at that moment.
+- Guest additions sometimes do not go or do not perfectly recognize the resolution used by the host system at that moment.
 - Sometimes distros don't boot from live cd or iso image.
 
 # How can you help the project?
