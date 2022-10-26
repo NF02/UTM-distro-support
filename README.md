@@ -5,7 +5,13 @@ The idea of the project is to map all the working distros within the environment
 |       OS           |      Arch     |   version  |    status   |   UTM       |   product     |   Host OS    |
 |--------------------|---------------|------------|-------------| ----------- | ------------- | ------------ |
 |     **Debian**     |     arm64     |     11     |      ☑      |  4.0.6 beta | mbpro m1 8gb  |  13 Ventura  |
-|     **Kali linux** |     arm64     |  2022.3    |      -      |  4.0.6 beta | mbpro m1 8gb  |  13 Ventura  |
+|     **Kali linux** |     arm64     |  2022.3    |      ⚠      |  4.0.6 beta | mbpro m1 8gb  |  13 Ventura  |
+
+
+- ☑ works out of the box;
+- ⚠ it works but is not very stable;
+- ~ in testing right now;
+- 🚫 It does not work.
 
 ## What are the main problems of UTM?
 - Guest additions sometimes do not go or do not perfectly recognize the resolution used by the host system at that moment.
