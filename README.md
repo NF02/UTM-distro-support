@@ -6,6 +6,11 @@ The idea of the project is to map all the working distros within the environment
 |----------------|---------------|------------|-------------| ----------- | ------------- | ------------ |
 |     Debian     |     arm64     |     11     |      ☑      |  4.0.6 beta | mbpro m1 8gb  |  13 Ventura  |
 
+
+## What are the main problems of UTM?
+- Quest additions sometimes do not go or do not perfectly recognize the resolution used by the host system at that moment.
+- Sometimes distros don't boot from live cd or iso image.
+
 # How can you help the project?
 for those wishing to contribute there are two ways:
 - the first is to do some tests if you have the aforementioned hardware;
