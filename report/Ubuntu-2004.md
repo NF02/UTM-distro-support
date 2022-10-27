@@ -1,4 +1,4 @@
-# Ubuntu
+# Ubuntu 20.02
 - all the main functions work, from audio to video and also the shortcuts and special keys.
 - Sometimes there are obvious glitches on GNOME and it doesn't quite manage to integrate guest additions;
 - for unknown reasons the distro can give a differently pleasant "EFI stub: ERROR: FIRMWARE BUG: kernel image not aligned on 64k boundary"
