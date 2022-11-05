@@ -5,7 +5,7 @@
 
 | Specifications | |
 | -------------  | ----------- |
-| Desktop Env.   | Xfce4       |
+| Desktop Env.   | Gnome 39    |
 | ram            | 4Gb         |
 | CPU            | 4 core      |
 | Base size      | ~8.5Gb      |
