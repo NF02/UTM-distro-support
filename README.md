@@ -10,7 +10,7 @@ The idea of the project is to map all the working distros within the environment
 |     **<a href="https://github.com/NF02/UTM-distro-support/blob/main/report/Fedora36.md">Fedora Linux</a>** |     arm64     |     36     |      ☑      |  4.0.9      | mbpro m1 8gb  |  13 Ventura  |
 |     **<a href="https://github.com/NF02/UTM-distro-support/blob/main/report/Ubuntu-2004.md">Ubuntu Linux</a>** |     arm64     |     20.04  |      ⚠      |  3.0.6      | mbpro m1 8gb  |  12 Monterey |
 |     **<a href="https://github.com/NF02/UTM-distro-support/blob/main/report/Ubuntu-2204.md">Ubuntu Linux</a>** |     arm64     |     22.04  |      ⚠      |  3.0.6      | mbpro m1 8gb  |  12 Monterey |
-|     **<a href="https://github.com/NF02/UTM-distro-support/blob/main/report/-">Manjaro Linux</a>**   |     arm64     |  rolling    |      ~      |  4.0.9      | mbpro m1 8gb  |  13 Ventura  |
+|     **Manjaro Linux**   |     arm64     |  rolling    |       🚫     |  4.0.9      | mbpro m1 8gb  |  13 Ventura  |
 
 
 - ☑ works out of the box;
