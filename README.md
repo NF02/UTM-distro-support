@@ -22,6 +22,10 @@ The idea of the project is to map all the working distros within the environment
 - Guest additions sometimes do not go or do not perfectly recognize the resolution used by the host system at that moment.
 - Sometimes distros don't boot from live cd or iso image.
 
+## UTM Install
+```sh
+brew install utm
+```
 # How can you help the project?
 for those wishing to contribute there are two ways:
 - the first is to do some tests if you have the aforementioned hardware;
