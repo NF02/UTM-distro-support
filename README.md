@@ -24,7 +24,7 @@ The idea of the project is to map all the working distros within the environment
 
 ## UTM Install
 ```sh
-brew install utm
+brew install --cask utm
 ```
 # How can you help the project?
 for those wishing to contribute there are two ways:
